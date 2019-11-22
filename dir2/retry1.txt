@@ -1,2 +1,3 @@
 this change is made on ubuntu1804NEW
-hello thi = is wiere
+hello this is wiered
+line 3 new
