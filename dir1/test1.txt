@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Ravi 20191121 Making test change in test1.txt
 Check values
+=======
+A change was made to this file directly in Git hub
+>>>>>>> Stashed changes
